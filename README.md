@@ -83,3 +83,6 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
    - https://blog.langchain.com/improving-deep-agents-with-harness-engineering/
    - https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents
    - https://openai.com/index/harness-engineering/
+
+## Links to other great resources
+   - https://github.com/genieincodebottle/generative-ai
