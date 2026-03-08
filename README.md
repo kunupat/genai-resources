@@ -57,7 +57,29 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
 2. Graph RAG
    - Microsoft Graph RAG: https://github.com/microsoft/graphrag
 
-# UI
+## UI
    - AG-UI: https://github.com/ag-ui-protocol/ag-ui
    - Agent Chat UI for Langgraph Agents: https://github.com/langchain-ai/agent-chat-ui
    - Deep Agent Chat UI for Langchain Deep Agents: https://github.com/langchain-ai/deep-agents-ui
+
+## Techniques and Best Practices
+
+### Agents
+   - https://www.anthropic.com/engineering/building-effective-agents
+   - https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/
+   - https://github.com/humanlayer/12-factor-agents
+   - https://www.ibm.com/think/ai-agents#605511093
+
+### Prompt Engineering
+   - https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
+   - https://www.promptingguide.ai
+   - https://cloud.google.com/discover/what-is-prompt-engineering#prompt-engineering-overview-and-guide
+     
+### Context Engineering
+   - https://www.promptingguide.ai/guides/context-engineering-guide
+   - https://blog.langchain.com/context-engineering-for-agents/
+   - https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+### Harness Engineering
+   - https://blog.langchain.com/improving-deep-agents-with-harness-engineering/
+   - https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents
+   - https://openai.com/index/harness-engineering/
