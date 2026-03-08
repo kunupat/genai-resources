@@ -56,3 +56,8 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
    - PGVector: https://github.com/pgvector/pgvector
 2. Graph RAG
    - Microsoft Graph RAG: https://github.com/microsoft/graphrag
+
+# UI
+   - AG-UI: https://github.com/ag-ui-protocol/ag-ui
+   - Agent Chat UI for Langgraph Agents: https://github.com/langchain-ai/agent-chat-ui
+   - Deep Agent Chat UI for Langchain Deep Agents: https://github.com/langchain-ai/deep-agents-ui
