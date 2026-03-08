@@ -1,2 +1,56 @@
 # genai-resources
-Collection of GenAI Resources
+Collection of GenAI Resources (primarily open source/free)
+
+## Agentic Software Development
+
+1. Spec-driven Development
+   - Spec Kit: https://github.com/github/spec-kit
+   - BMAD: https://github.com/bmad-code-org/BMAD-METHOD
+   - BoundaryML (BAML): The First Language for Building Agents: https://boundaryml.com
+  
+2. Skills
+   - Tessl- The package manager for agent skills and context: https://tessl.io
+  
+3. Agents & IDEs
+   - Goose- A local, extensible, open source AI agent that automates engineering tasks: https://github.com/block/goose
+   - Github Copilot
+   - Claude Code
+   - Amazon Kiro
+   - Google Antigravity
+
+## Agent Workflows & Orchestration
+1. Agent Frameworks
+   - Langgraph/DeepAgents/Langchain
+   - CrewAI
+   - AutoGen
+   - Pydantic AI
+     
+2. Low-code/No-code
+   - Langflow: https://github.com/langflow-ai/langflow
+
+## LLMs
+1. Local LLMs
+   - Ollama
+   - LMStudio
+  
+## Observability
+   - Langfuse: https://github.com/langfuse/langfuse
+
+## Evals
+   - DeepEvals: https://github.com/confident-ai/deepeval
+   - Pydantic Evals: https://ai.pydantic.dev/evals/
+
+## MCP Development
+  - FastMCP: https://github.com/PrefectHQ/fastmcp
+  - https://github.com/modelcontextprotocol
+
+## Guardrails
+  - Nvidia NeMo Guardrails: https://github.com/NVIDIA-NeMo/Guardrails
+  - Langchain Guardrails: https://docs.langchain.com/oss/python/langchain/guardrails
+  - Guardrails AI: https://github.com/guardrails-ai/guardrails
+
+## Knoledge Bases
+1. RAG
+  - PGVector: https://github.com/pgvector/pgvector
+2. Graph RAG
+  - Microsoft Graph RAG: https://github.com/microsoft/graphrag
