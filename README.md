@@ -14,6 +14,10 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
    - Claude Code
    - Amazon Kiro
    - Google Antigravity
+  
+### Reference Resources
+- https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf
+- https://claude.com/blog/how-anthropic-teams-use-claude-code
 
 ## Agent Workflows & Orchestration
 1. Agent Development Frameworks
@@ -79,6 +83,10 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
 
 ### MCP Servers List
    - https://github.com/PipedreamHQ/awesome-mcp-servers?tab=readme-ov-file
+   - https://modelcontextprotocol.io/examples
+   - https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#%EF%B8%8F-official-integrations
+   - https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#-community-servers
+   - https://mcpmarket.com
 
 ### MCP Types:
    - MCP 2.0: ?
