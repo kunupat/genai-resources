@@ -1,7 +1,7 @@
 # GenAI Resources
 A collection of GenAI Resources (primarily open source/free) that I have used or have come across so far.
 
-## Agentic Software Development
+## Software Development With Agents
 
 1. Spec-driven Development
    - **Spec Kit**: https://github.com/github/spec-kit
@@ -30,6 +30,28 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
 4. Low-code/No-code
    - **Langflow**: https://github.com/langflow-ai/langflow
 
+## Protocols
+- **Agent Protocol**: https://github.com/langchain-ai/agent-protocol
+- **Agent-to-Agent Protocol (A2A)**:
+   - https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/
+   - https://github.com/a2aproject/A2A
+
+- **Agent Payments Protocol (AP2)**:
+   - https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol
+   - https://github.com/google-agentic-commerce/AP2
+     
+- **Agentic Commerce Protocol (ACP)**:
+   - https://www.agenticcommerce.dev/docs
+   - https://developers.openai.com/commerce
+ 
+- **Universal Commerce Protocol (UCP)**:
+   - https://ucp.dev
+
+## Computer Use
+   - **Anthropic Computer Use**: https://www.anthropic.com/news/developing-computer-use
+   - **OpenAI Operator**: https://openai.com/index/introducing-operator/
+   - **Amazon Nova**: https://aws.amazon.com/blogs/aws/build-reliable-ai-agents-for-ui-workflow-automation-with-amazon-nova-act-now-generally-available/
+     
 ## LLMs
 1. Local LLMs
    - **Ollama**: https://ollama.com
@@ -58,6 +80,9 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
 ### MCP Servers List
    - https://github.com/PipedreamHQ/awesome-mcp-servers?tab=readme-ov-file
 
+### MCP Types:
+   - MCP 2.0: ?
+
 ## Agent Generated Code Execution Sandbox
    - **Daytona (AGPL 3.0 license)**: https://github.com/daytonaio/daytona/blob/main/LICENSE
    - 
@@ -70,6 +95,18 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
 ## Knowledge Bases
 1. RAG
    - **PGVector**: https://github.com/pgvector/pgvector
+   - **ChromaDB**: https://github.com/chroma-core/chroma
+
+### RAG Types
+   - Corrective RAG: ?
+   - Self RAG: ?
+   - Adaptive RAG: ?
+   - Lean RAG: ?
+   - ComoRAG: ?
+   - REX RAG: ?
+   - RAG-Agency: ?
+   - RAG 3.0 : ?
+      
 2. Graph RAG
    - **Microsoft Graph RAG**: https://github.com/microsoft/graphrag
    - **Vectorless Tree RAG**: https://github.com/VectifyAI/PageIndex
@@ -92,6 +129,8 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
    - https://www.promptingguide.ai
    - https://cloud.google.com/discover/what-is-prompt-engineering#prompt-engineering-overview-and-guide
    - https://developers.openai.com/cookbook/examples/gpt-5/codex_prompting_guide?ref=blog.langchain.com
+   - https://www.promptingguide.ai
+   - 
      
 ### Context Engineering
    - https://www.promptingguide.ai/guides/context-engineering-guide
@@ -109,3 +148,13 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
 
 ## Platforms
    - **DATAGEN**: https://github.com/starpig1129/DATAGEN
+
+### Enterprise AI Platforms
+- **OpenAI Frontier**: https://openai.com/business/frontier/
+- **Anthropic Claude Cowork**: https://claude.com/product/cowork
+
+## GenAI KPIs
+   - https://cloud.google.com/transform/gen-ai-kpis-measuring-ai-success-deep-dive
+   - https://cloud.google.com/transform/kpis-for-gen-ai-why-measuring-your-new-ai-is-essential-to-its-success
+   - https://cloud.google.com/transform/the-kpis-that-actually-matter-for-production-ai-agents
+     
