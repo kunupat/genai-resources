@@ -104,6 +104,7 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
 1. RAG
    - **PGVector**: https://github.com/pgvector/pgvector
    - **ChromaDB**: https://github.com/chroma-core/chroma
+   - **Qdrant**: https://github.com/qdrant/qdrant
 
 ### RAG Types
    - Corrective RAG: ?
@@ -119,10 +120,14 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
    - **Microsoft Graph RAG**: https://github.com/microsoft/graphrag
    - **Vectorless Tree RAG**: https://github.com/VectifyAI/PageIndex
 
+### Graph RAG Resources
+- https://neo4j.com/blog/genai/graphrag-manifesto/
+
 ## UI
    - **AG-UI**: https://github.com/ag-ui-protocol/ag-ui
    - **Agent Chat UI for Langgraph Agents**: https://github.com/langchain-ai/agent-chat-ui
    - **Deep Agent Chat UI for Langchain Deep Agents**: https://github.com/langchain-ai/deep-agents-ui
+   - **Gradio**: Web Interface for ML models: https://www.gradio.app
 
 ## Techniques and Best Practices
 
@@ -138,12 +143,17 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
    - https://cloud.google.com/discover/what-is-prompt-engineering#prompt-engineering-overview-and-guide
    - https://developers.openai.com/cookbook/examples/gpt-5/codex_prompting_guide?ref=blog.langchain.com
    - https://www.promptingguide.ai
-   - 
+   - https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-engineering-guidelines.html
+   - https://brightpool.notion.site/ChatGPT-Prompt-Pack-ddaaee466a434527a58a4d6fc3027fb5
+   - https://brightpool.notion.site/fe947b16fe894c3e8a8a19a6b81aec2c?v=9b1d189283d54b6bba80882239ecbb1a
      
 ### Context Engineering
    - https://www.promptingguide.ai/guides/context-engineering-guide
    - https://blog.langchain.com/context-engineering-for-agents/
    - https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+   - https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
+   - https://cognition.ai/blog/dont-build-multi-agents
+
 ### Harness Engineering
    - https://blog.langchain.com/improving-deep-agents-with-harness-engineering/
    - https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents
@@ -153,6 +163,9 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
    - https://github.com/genieincodebottle/generative-ai
    - **Google AI Labs**: https://labs.google
    - https://www.anthropic.com/learn
+   - **Patterns for Building Generative AI Applications on Amazon Bedrock**: https://builder.aws.com/content/2dhKdwyY1kzhFTg9CTLbaJ9MmTN/patterns-for-building-generative-ai-applications-on-amazon-bedrock
+   - https://aws.amazon.com/blogs/machine-learning/automate-the-insurance-claim-lifecycle-using-amazon-bedrock-agents-and-knowledge-bases/
+   - **Designing Agentic AI Systems, Part-1: Agent Architectures:** https://vectorize.io/blog/designing-agentic-ai-systems-part-1-agent-architectures
 
 ## Platforms
    - **DATAGEN**: https://github.com/starpig1129/DATAGEN
