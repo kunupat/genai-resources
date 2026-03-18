@@ -9,11 +9,12 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
    - **BoundaryML (BAML)**: The First Language for Building Agents: https://boundaryml.com
   
 2. Dev Agents & IDEs
-   - Goose- A local, extensible, open source AI agent that automates engineering tasks: https://github.com/block/goose
+   - **Goose**- A local, extensible, open source AI agent that automates engineering tasks: https://github.com/block/goose
    - Github Copilot
    - Claude Code
    - Amazon Kiro
    - Google Antigravity
+   - **Opencode**- https://opencode.ai/docs/
 
 3. Protocols
    - LSP
