@@ -14,7 +14,11 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
    - Claude Code
    - Amazon Kiro
    - Google Antigravity
-  
+
+3. Protocols
+   - LSP
+   - LSAP: https://github.com/lsp-client/LSAP
+     
 ### Reference Resources
 - https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf
 - https://claude.com/blog/how-anthropic-teams-use-claude-code
