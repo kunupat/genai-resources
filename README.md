@@ -30,7 +30,7 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
    - **CrewAI**: https://crewai.com/open-source
    - **Microsoft AutoGen**: https://github.com/microsoft/autogen
    - **Pydantic AI**: https://github.com/pydantic/pydantic-ai
-
+   - **AWS AgentCore**: AWS AgentCore
 2. Agents & Skills
    - **Agents.md**: https://agents.md
    - **Agent Skills (SKILL.md)**: https://github.com/agentskills/agentskills
@@ -39,6 +39,9 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
 4. Low-code/No-code
    - **Langflow**: https://github.com/langflow-ai/langflow
 
+## Deployments
+1. **Langgraph:** https://www.langchain.com/blog/deep-agents-deploy-an-open-alternative-to-claude-managed-agents
+  
 ## Protocols
 - **Agent Protocol**: https://github.com/langchain-ai/agent-protocol
 - **Agent-to-Agent Protocol (A2A)**:
@@ -172,7 +175,8 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
    - **Patterns for Building Generative AI Applications on Amazon Bedrock**: https://builder.aws.com/content/2dhKdwyY1kzhFTg9CTLbaJ9MmTN/patterns-for-building-generative-ai-applications-on-amazon-bedrock
    - https://aws.amazon.com/blogs/machine-learning/automate-the-insurance-claim-lifecycle-using-amazon-bedrock-agents-and-knowledge-bases/
    - **Designing Agentic AI Systems, Part-1: Agent Architectures:** https://vectorize.io/blog/designing-agentic-ai-systems-part-1-agent-architectures
-
+   - https://www.langchain.com/blog/human-judgment-in-the-agent-improvement-loop
+     
 ## Platforms
    - **DATAGEN**: https://github.com/starpig1129/DATAGEN
 
