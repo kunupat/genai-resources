@@ -124,7 +124,8 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
 2. Graph RAG
    - **Microsoft Graph RAG**: https://github.com/microsoft/graphrag
    - **Vectorless Tree RAG**: https://github.com/VectifyAI/PageIndex
-
+   - **FalkorDB**: https://www.falkordb.com
+     
 ### Graph RAG Resources
 - https://neo4j.com/blog/genai/graphrag-manifesto/
 
