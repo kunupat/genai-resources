@@ -176,6 +176,10 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
    - https://aws.amazon.com/blogs/machine-learning/automate-the-insurance-claim-lifecycle-using-amazon-bedrock-agents-and-knowledge-bases/
    - **Designing Agentic AI Systems, Part-1: Agent Architectures:** https://vectorize.io/blog/designing-agentic-ai-systems-part-1-agent-architectures
    - https://www.langchain.com/blog/human-judgment-in-the-agent-improvement-loop
+
+## Domain Agents
+   - Finance
+      - **LangAlpha**: Financial market analysis and supporting investment decisions: https://github.com/ginlix-ai/LangAlpha
      
 ## Platforms
    - **DATAGEN**: https://github.com/starpig1129/DATAGEN
