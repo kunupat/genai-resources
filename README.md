@@ -34,7 +34,8 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
 2. Agents & Skills
    - **Agents.md**: https://agents.md
    - **Agent Skills (SKILL.md)**: https://github.com/agentskills/agentskills
-   - **Tessl**- The package manager for agent skills and context: https://tessl.io
+   - **Tessl**: The package manager for agent skills and context: https://tessl.io
+   - **Design.md**: A design system document that AI agents read to generate consistent UI across your project: https://stitch.withgoogle.com/docs/design-md/overview
  
 4. Low-code/No-code
    - **Langflow**: https://github.com/langflow-ai/langflow
@@ -183,6 +184,7 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
      
 ## Platforms
    - **DATAGEN**: https://github.com/starpig1129/DATAGEN
+   - **Swarms.ai**: https://github.com/kyegomez/swarms
 
 ### Enterprise AI Platforms
 - **OpenAI Frontier**: https://openai.com/business/frontier/
