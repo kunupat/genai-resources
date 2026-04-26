@@ -185,6 +185,7 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
 ## Platforms
    - **DATAGEN**: https://github.com/starpig1129/DATAGEN
    - **Swarms.ai**: https://github.com/kyegomez/swarms
+   - **LiteLLM**: AI Gateway to provide model access, fallbacks and spend tracking across 100+ LLMs. All in the OpenAI format. : https://www.litellm.ai
 
 ### Enterprise AI Platforms
 - **OpenAI Frontier**: https://openai.com/business/frontier/
