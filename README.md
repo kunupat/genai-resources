@@ -133,6 +133,9 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
 ### Graph RAG Resources
 - https://neo4j.com/blog/genai/graphrag-manifesto/
 
+3. RAG Techniques
+   - https://www.freecodecamp.org/news/how-to-handle-small-context-window-limits-in-rag-systems/
+     
 ## UI
    - **AG-UI**: https://github.com/ag-ui-protocol/ag-ui
    - **Agent Chat UI for Langgraph Agents**: https://github.com/langchain-ai/agent-chat-ui
@@ -146,6 +149,7 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
    - https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/
    - https://github.com/humanlayer/12-factor-agents
    - https://www.ibm.com/think/ai-agents#605511093
+   - https://www.langchain.com/blog/the-art-of-loop-engineering
 
 ### Prompt Engineering
    - https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
