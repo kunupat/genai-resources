@@ -135,6 +135,7 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
 
 3. RAG Techniques
    - https://www.freecodecamp.org/news/how-to-handle-small-context-window-limits-in-rag-systems/
+   - **LLM-wiki:** https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
      
 ## UI
    - **AG-UI**: https://github.com/ag-ui-protocol/ag-ui
@@ -181,6 +182,12 @@ A collection of GenAI Resources (primarily open source/free) that I have used or
    - https://aws.amazon.com/blogs/machine-learning/automate-the-insurance-claim-lifecycle-using-amazon-bedrock-agents-and-knowledge-bases/
    - **Designing Agentic AI Systems, Part-1: Agent Architectures:** https://vectorize.io/blog/designing-agentic-ai-systems-part-1-agent-architectures
    - https://www.langchain.com/blog/human-judgment-in-the-agent-improvement-loop
+   - **Data Management Comprehensive Guide:** https://www.ibm.com/think/topics/ai-data-integration#763338462
+   - **SOX compliance for GenAI- Standard Guidelines:** https://ab5bd07f-8066-4a33-869e-6f82d80ee59a.filesusr.com/ugd/719ba0_08f358f2c8f946fa9d26bd51d37b7117.pdf
+   - **Semantic Layer:**
+      - **Knowledge Catalog:** https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
+      - **Open Knowledge Format:** https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/
+      - **Open Knowledge Format:** https://cloud.google.com/blog/products/data-analytics/introducing-the-google-cloud-knowledge-catalog
 
 ## Domain Agents
    - Finance
